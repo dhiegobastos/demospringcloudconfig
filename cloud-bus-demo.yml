@@ -1,2 +1,3 @@
-valor:
-  teste: ABC
+word-config:
+  luckyWord: Arroz
+  preamble: A palavra da sorte é
